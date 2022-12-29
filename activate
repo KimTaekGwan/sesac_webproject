@@ -1,4 +1,0 @@
-export FLASK_APP=sesac.py
-export FLASK_DEBUG=true
-source ./pybo_env/bin/activate
-cd myproject
